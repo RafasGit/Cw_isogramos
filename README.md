@@ -1,1 +1,2 @@
-Codewar solution
+Codewar solution to check if a word is an isogram. An isogram is a word with any repeating letters.
+We split the string into array elements then declare two variables which we can use to index two elements at a time for comparison
