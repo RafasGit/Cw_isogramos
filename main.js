@@ -1,5 +1,5 @@
 function isIsogram(str){
-    //...
+    //... We declare two variables and use indexing with each variable and compare the two to see if they are similar
     str = str.toLowerCase();
     i = 0; 
     j = 0;
